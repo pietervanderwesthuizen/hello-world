@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repository
+
+I'm a confused engineer trying to learn R
